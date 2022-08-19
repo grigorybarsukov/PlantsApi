@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GR1rRADcSs691f2ouv7akqaWcj+1AopBY+NdOhriNiY=",
+  "Source": "Plants.WebApi",
+  "BasePath": "_content/Plants.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
